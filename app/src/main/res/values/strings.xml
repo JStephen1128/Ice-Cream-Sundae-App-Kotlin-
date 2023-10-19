@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Assignment2</string>
+    <array name="size">
+        <item>Small</item>
+        <item>Medium</item>
+        <item>Large</item>
+    </array>
+
+    <array name="flavors">
+        <item>Vanilla</item>
+        <item>Chocolate</item>
+        <item>Strawberry</item>
+    </array>
+
+</resources>
